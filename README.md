@@ -1,2 +1,2 @@
 # Mars
-Test Repo
+This is just a testing repository
